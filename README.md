@@ -1,2 +1,2 @@
 # Accenture_internship
-Data visualization and analysis internship Accenture Forage
+Data visualization and analysis job simulation Accenture Forage
